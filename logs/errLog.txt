@@ -1,0 +1,6 @@
+20230707	15:07:16	53f5e473-090d-4615-928d-a99eebbef553	Error: Not allowed by CORS
+20230709	10:07:28	c43ff943-898a-46bb-988d-7d370bd33a53	TypeError: Cannot read properties of undefined (reading 'startsWith')
+20230709	10:14:08	47bcecc9-b8a4-486b-8ef0-8f6fac1f492c	TypeError: Cannot read properties of undefined (reading 'startsWith')
+20230709	10:14:31	3370234c-2f69-4d0b-b59d-d77cd2466962	TypeError: Cannot read properties of undefined (reading 'startsWith')
+20230709	10:15:45	cba6d68e-5068-4632-b890-3f630ce792fd	TypeError: Cannot read properties of undefined (reading 'startsWith')
+20230709	10:15:59	0b4aa577-ba7a-44ea-9e62-e99222921bb8	TypeError: Cannot read properties of undefined (reading 'startsWith')
